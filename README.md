@@ -1,0 +1,1 @@
+This repository demonstrates a common integer overflow error in C and its solution. The original code attempts to assign a value to an integer variable that exceeds its maximum limit, resulting in unpredictable behavior. The solution introduces a check to handle potential overflow conditions.
